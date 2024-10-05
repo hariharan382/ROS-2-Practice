@@ -1,0 +1,5 @@
+localization_node:
+  ros_parameters:
+    number_particles: 300
+    topics: [scan, image]
+    topic_types: [sensor_msgs/msg/LaserScan, sesnor_msgs/msg/Image]
